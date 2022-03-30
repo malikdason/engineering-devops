@@ -1,1 +1,1 @@
-This repositiory for learning Shell basics
+#!/bin/bash
